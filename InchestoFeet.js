@@ -1,4 +1,4 @@
-let inches = 5;
+let inches = 4;
 
 let feet = inches/12;
 
